@@ -1,4 +1,3 @@
-# shawandpartners-
 API Challenge
 
 
@@ -59,5 +58,5 @@ Endpoint to list GitHub user repositories
 
 
 
-Unit tests
+tests
 On the root project, use the command on the terminal (JEST) or execute from node modules in case of error (node_modules/.bin/jest)
